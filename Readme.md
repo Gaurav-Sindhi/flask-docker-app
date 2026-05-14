@@ -143,13 +143,13 @@ docker push <account-id>.dkr.ecr.ap-south-1.amazonaws.com/flask-app-repo:latest
 
 ## 🔹 ECS Service Deployment Successful
 
-![ECS Service](Screenshots/Screenshot%202026-04-30%20022837.png)
+![ECS Service](Screenshots/Screenshot%202026-04-30%200021913.png)
 
 ---
 
 ## 🔹 Target Group Health Check
 
-![Target Group](Screenshots/Screenshot%202026-04-30%20022908.png)
+![Target Group](Screenshots/Screenshot%202026-04-30%200021839.png)
 
 ---
 
