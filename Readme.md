@@ -130,19 +130,19 @@ docker push <account-id>.dkr.ecr.ap-south-1.amazonaws.com/flask-app-repo:latest
 
 ## 🔹 Flask App Running Locally
 
-![Local Flask App](screenshots/Screenshot%202026-04-27%20112657.png)
+![Local Flask App](Screenshots/Screenshot%202026-04-27%20112657.png)
 
 ---
 
 ## 🔹 Docker Container Running
 
-![Docker Running](screenshots/Screenshot%202026-04-30%20002310.png)
+![Docker Running](Screenshots/Screenshot%202026-04-30%20002310.png)
 
 ---
 
 ## 🔹 Flask App Running on AWS ECS
 
-![ECS Deployment](screenshots/Screenshot%202026-04-30%20021631.png)
+![ECS Deployment](Screenshots/Screenshot%202026-04-30%20021631.png)
 
 ---
 
